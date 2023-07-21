@@ -5,10 +5,13 @@
 	},
 	"main": "server.js",
 	"scripts": {
-		"start": "node server.js"
+		"start": "node myApp.js"
 	},
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+	"description": "learning backend",
+	"keywards": ["backend", "webdev", "npm"],
+	"version": "1.0"
 }
